@@ -34,9 +34,8 @@ The results from the previous analysis will be compared with the results of the 
 
    While the ranking order of the schools did not change, note that overall the scores from the more recent analysis are lower for Thomas High School than before.
 
-* How does replacing the ninth-grade scores affect the following:
-   - Math and reading scores by grade
-      First, we compare the math scores. Note that the second table has NaN ("Not a Number") in place of Thomas High School's average of math scores for the 9th grade.
+* How does replacing the ninth-grade scores affect the following?
+   - First, we compare the math scores by grade. Note that the second table has NaN ("Not a Number") in place of Thomas High School's average of math scores for the 9th grade.
       
     ![alt text](https://github.com/ajkriegz/School_District_Analysis/blob/main/Resources/old_math_scores.png "Previous Math Scores") ![alt text](https://github.com/ajkriegz/School_District_Analysis/blob/main/Resources/math_scores_new.png "New Math Scores")
 
@@ -46,8 +45,7 @@ The results from the previous analysis will be compared with the results of the 
 
       The overall average for 9th grade reading scores changes from 82.51 to 82.43 when Thomas High School's reported average is omitted.
 
-   - Scores by school spending
-      Below are the latest summary and previous summary, respectively, based on school spending per student.
+   - Below are the latest summary and previous summary, respectively, based on school spending per student.
 
     ![alt text](https://github.com/ajkriegz/School_District_Analysis/blob/main/Resources/spending_summary_new.png "New Spending Summary") 
 
@@ -55,8 +53,7 @@ The results from the previous analysis will be compared with the results of the 
 
      This data set was not impacted by the change in reported data.
 
-   - Scores by school size
-      Below are the latest summary and previous summary, respectively, based on school size.
+   - Below are the latest summary and previous summary, respectively, based on school size.
 
     ![alt text](https://github.com/ajkriegz/School_District_Analysis/blob/main/Resources/size_summary_new.png "New Size Summary")
 
@@ -64,8 +61,7 @@ The results from the previous analysis will be compared with the results of the 
 
       This data set was not impacted by the change in reported data.
 
-   - Scores by school type
-      Below are the latest summary and previous summary, respectively, based on school type.
+   - Below are the latest summary and previous summary, respectively, based on school type.
 
     ![alt text](https://github.com/ajkriegz/School_District_Analysis/blob/main/Resources/type_summary_new.png "New Type Summary")
 
