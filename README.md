@@ -75,6 +75,6 @@ The results from the previous analysis will be compared with the results of the 
 
 * Thomas High School's ranking within the district did not change, but their actual metrics were not so near to the top school's metrics as initially reported.
 
-* Thomas High School reported scores and percentages of students passing are lower in every category, as shown on the School Summary Dataframe.
+* Thomas High School's reported scores and percentages of students passing are lower in every category, as shown on the School Summary Dataframe.
 
 * The district-wide average for 9th grade as a whole in both math and reading went down when the altered data was removed.
